@@ -1,5 +1,6 @@
 pytest
 requests
 pytest-xdist
+pytest-html
 jsonschema
 genson
